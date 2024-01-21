@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaig98&label=Profile%20views&color=0e75b6&style=flat" alt="nomanbaig98" /> </p>
 
-- 🔭 I’m currently working on myself
-
 - 📫 How to reach me **nomanbaig1998@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nomanbaig98/](https://www.linkedin.com/in/nomanbaig98/)
