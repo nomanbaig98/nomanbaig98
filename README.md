@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaig98&label=Profile%20views&color=0e75b6&style=flat" alt="nomanbaig98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomanbaig98" alt="nomanbaig98" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nomanbaig98" target="blank"><img src="https://img.shields.io/twitter/follow/nomanbaig98?logo=twitter&style=for-the-badge" alt="nomanbaig98" /></a> </p>
-
-- 🔭 I’m currently working on **me**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nomanbaig98](https://github.com/nomanbaig98)
-
-- 💬 Ask me about **Python, Data Science, Machine Learning, Artificial Intelligence**
+- 🔭 I’m currently working on myself
 
 - 📫 How to reach me **nomanbaig1998@gmail.com**
 
@@ -19,18 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nomanbaig98" height="30" width="40" /></a>
-<a href="https://twitter.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomanbaig98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomanbaig98" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nomanbaig98" height="30" width="40" /></a>
 <a href="https://kaggle.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nomanbaig98" height="30" width="40" /></a>
-<a href="https://fb.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nomanbaig98" height="30" width="40" /></a>
-<a href="https://instagram.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomanbaig98" height="30" width="40" /></a>
-<a href="https://medium.com/@nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nomanbaig98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammad noman baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad noman baig" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nomanbaig98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nomanbaig98" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nomanbaig98" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nomanbaig98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
