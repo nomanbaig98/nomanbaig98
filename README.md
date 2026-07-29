@@ -3,6 +3,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nomanbaig98)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nomanbaig1998@gmail.com)
+<p align="left">
+<a href="https://stackoverflow.com/users/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nomanbaig98" height="30" width="40" /></a>
+<a href="https://kaggle.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nomanbaig98" height="30" width="40" /></a>
+</p>
 
 Building robust, scalable, and secure data ecosystems is the foundational mandate of modern enterprise finance.<br>
 Processing millions of financial transactions at scale is a solved engineering problem; ensuring the absolute integrity of those algorithmic decisions is not. <br>
@@ -25,23 +29,10 @@ My engineering trajectory is dedicated to advancing Trustworthy AI—architectin
 
 
 ### Engineering Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomanbaig98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanbaig98&layout=compact&theme=radical)
 
-
-
-<h1 align="center">Hi 👋, I'm Muhammad Noman Baig</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaig98&label=Profile%20views&color=0e75b6&style=flat" alt="nomanbaig98" /> </p>
-
-- 📫 How to reach me **nomanbaig1998@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nomanbaig98/](https://www.linkedin.com/in/nomanbaig98/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomanbaig98" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nomanbaig98" height="30" width="40" /></a>
 <a href="https://kaggle.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nomanbaig98" height="30" width="40" /></a>
 </p>
@@ -54,3 +45,6 @@ My engineering trajectory is dedicated to advancing Trustworthy AI—architectin
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomanbaig98&" alt="nomanbaig98" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaig98&label=Profile%20views&color=0e75b6&style=flat" alt="nomanbaig98" /> </p>
