@@ -15,10 +15,10 @@ My engineering trajectory is dedicated to advancing Trustworthy AI—architectin
 *   **Compliance & Scale**: Designed scalable PySpark and REST API ingestion pipelines increasing data load efficiency by 40%, while engineering RPA checkpoints to enforce 2025 TBML regulations.
 
 ### Technical Matrix
-**Big Data Ecosystem:** `Apache Spark` | `Kafka` | `Hadoop` | `Hive` | `HBase` | `Impala` | `HDFS` | `YARN` | `CDP 7.x`
-**AI & Machine Learning:** `PyTorch` | `Hugging Face` | `XGBoost` | `MLflow` | `NLP` | `RPA`
-**Languages & Frameworks:** `Python` | `Scala` | `PySpark` | `SQL` | `Spark SQL` | `Bash` | `FastAPI`
-**Infrastructure & Datastores:** `Linux (RHEL)` | `Apache Ranger` | `PostgreSQL (pgvector)` | `MS SQL Server` | `Oracle DB` | `MySQL`
+**Big Data Ecosystem:** `Apache Spark` | `Kafka` | `Hadoop` | `Hive` | `HBase` | `Impala` | `HDFS` | `YARN` | `CDP 7.x`.
+**AI & Machine Learning:** `PyTorch` | `Hugging Face` | `XGBoost` | `MLflow` | `NLP` | `RPA`.
+**Languages & Frameworks:** `Python` | `Scala` | `PySpark` | `SQL` | `Spark SQL` | `Bash` | `FastAPI`.
+**Infrastructure & Datastores:** `Linux (RHEL)` | `Apache Ranger` | `PostgreSQL (pgvector)` | `MS SQL Server` | `Oracle DB` | `MySQL`.
 
 ### Engineering Metrics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomanbaig98&show_icons=true&theme=radical)
