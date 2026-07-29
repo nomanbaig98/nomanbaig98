@@ -1,24 +1,26 @@
-# ⚡ Muhammad Noman Baig
-**AI & Data Engineer @ Bank Alfalah Ltd. | Trustworthy AI in Finance**[cite: 2]
+# Muhammad Noman Baig
+**AI & Data Engineer @ Bank Alfalah Ltd. | Trustworthy AI in Finance**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nomanbaig98)[cite: 1]
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nomanbaig1998@gmail.com)[cite: 1, 2]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nomanbaig98)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nomanbaig1998@gmail.com)
 
-Building robust, scalable, and secure data ecosystems is the foundational mandate of modern enterprise finance[cite: 2]. Processing millions of financial transactions at scale is a solved engineering problem; ensuring the absolute integrity of those algorithmic decisions is not[cite: 2]. My engineering trajectory is dedicated to advancing Trustworthy AI—architecting the core science that dictates explainable, equitable, and secure financial technology[cite: 2].
+Building robust, scalable, and secure data ecosystems is the foundational mandate of modern enterprise finance.
+Processing millions of financial transactions at scale is a solved engineering problem; ensuring the absolute integrity of those algorithmic decisions is not. 
+My engineering trajectory is dedicated to advancing Trustworthy AI—architecting the core science that dictates explainable, equitable, and secure financial technology.
 
-### 🏗️ Enterprise Architecture & Impact
+### Enterprise Architecture & Impact
 *   **AI-Based Risk Automation**: Engineered Hugging Face NLP models and XGBoost/PyTorch behavioral models for Suspicious Transaction Reports (STR), prioritizing mathematical explainability and significantly reducing false positives.
 *   **Petabyte-Scale Infrastructure**: Orchestrated the enterprise deployment of Cloudera Data Platform (CDP 7.x) across a 12-node, 105TB production cluster, maintaining 99.9% architectural uptime via distributed Linux workload balancing.
-*   **Data Governance & Zero Trust**: Architected strict Apache Ranger security policies for Hive and HBase environments, enforcing enterprise-wide RBAC and achieving zero unauthorized exposures across 105TB of distributed storage[cite: 1, 2].
-*   **Compliance & Scale**: Designed scalable PySpark and REST API ingestion pipelines increasing data load efficiency by 40%, while engineering RPA checkpoints to enforce 2025 TBML regulations[cite: 1, 2].
+*   **Data Governance & Zero Trust**: Architected strict Apache Ranger security policies for Hive and HBase environments, enforcing enterprise-wide RBAC and achieving zero unauthorized exposures across 105TB of distributed storage.
+*   **Compliance & Scale**: Designed scalable PySpark and REST API ingestion pipelines increasing data load efficiency by 40%, while engineering RPA checkpoints to enforce 2025 TBML regulations.
 
-### 🛠️ Technical Matrix
-**Big Data Ecosystem:** `Apache Spark` | `Kafka` | `Hadoop` | `Hive` | `HBase` | `Impala` | `HDFS` | `YARN` | `CDP 7.x`[cite: 1]
-**AI & Machine Learning:** `PyTorch` | `Hugging Face` | `XGBoost` | `MLflow` | `NLP` | `RPA`[cite: 1]
-**Languages & Frameworks:** `Python` | `Scala` | `PySpark` | `SQL` | `Spark SQL` | `Bash` | `FastAPI`[cite: 1]
-**Infrastructure & Datastores:** `Linux (RHEL)` | `Apache Ranger` | `PostgreSQL (pgvector)` | `MS SQL Server` | `Oracle DB` | `MySQL`[cite: 1]
+### Technical Matrix
+**Big Data Ecosystem:** `Apache Spark` | `Kafka` | `Hadoop` | `Hive` | `HBase` | `Impala` | `HDFS` | `YARN` | `CDP 7.x`
+**AI & Machine Learning:** `PyTorch` | `Hugging Face` | `XGBoost` | `MLflow` | `NLP` | `RPA`
+**Languages & Frameworks:** `Python` | `Scala` | `PySpark` | `SQL` | `Spark SQL` | `Bash` | `FastAPI`
+**Infrastructure & Datastores:** `Linux (RHEL)` | `Apache Ranger` | `PostgreSQL (pgvector)` | `MS SQL Server` | `Oracle DB` | `MySQL`
 
-### 📊 Engineering Metrics
+### Engineering Metrics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomanbaig98&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanbaig98&layout=compact&theme=radical)
 
