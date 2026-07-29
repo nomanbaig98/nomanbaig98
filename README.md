@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nomanbaig98)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nomanbaig1998@gmail.com)
 
-Building robust, scalable, and secure data ecosystems is the foundational mandate of modern enterprise finance.
-Processing millions of financial transactions at scale is a solved engineering problem; ensuring the absolute integrity of those algorithmic decisions is not. 
+Building robust, scalable, and secure data ecosystems is the foundational mandate of modern enterprise finance.<br>
+Processing millions of financial transactions at scale is a solved engineering problem; ensuring the absolute integrity of those algorithmic decisions is not. <br>
 My engineering trajectory is dedicated to advancing Trustworthy AI—architecting the core science that dictates explainable, equitable, and secure financial technology.
 
 ### Enterprise Architecture & Impact
