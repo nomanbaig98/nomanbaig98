@@ -33,3 +33,8 @@ My engineering trajectory is dedicated to advancing Trustworthy AI—architectin
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaig98&label=Profile%20Visits&color=0e75b6&style=flat" alt="nomanbaig98" /> </p>
+
+
+### 📊 Engineering Metrics
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nomanbaig98&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nomanbaig98&layout=compact&theme=radical)
