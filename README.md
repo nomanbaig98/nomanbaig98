@@ -35,3 +35,20 @@ My engineering trajectory is dedicated to advancing Trustworthy AI—architectin
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nomanbaig98&layout=compact&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanbaig98&label=Profile%20Visits&color=0e75b6&style=flat" alt="nomanbaig98" /> </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineer;Advancing+Trustworthy+AI+in+Finance;Scaling+Petabyte-Level+Data+Ecosystems;Architecting+Zero-Trust+Data+Pipelines" alt="Typing SVG" />
+</div>
+
+
+### 🗓️ Engineering Consistency
+![GitHub Streak](https://streak-stats.demolab.com?user=nomanbaig98&theme=radical&hide_border=true)
+
+
+
+### 🏗️ High-Impact Repositories
+![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=nomanbaig98&theme=radical)
+
+
+### 🏆 Open Source Milestones
+[![trophy](https://github-profile-trophy.vercel.app/?username=nomanbaig98&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
