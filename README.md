@@ -11,9 +11,11 @@
 Building robust, scalable, and secure data ecosystems is the foundational mandate of modern enterprise finance.<br>
 Processing millions of financial transactions at scale is a solved engineering problem; ensuring the absolute integrity of those algorithmic decisions is not. <br>
 My engineering trajectory is dedicated to advancing Trustworthy AI -architecting the core science that dictates explainable, equitable, and secure financial technology.
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineer;Advancing+Trustworthy+AI+in+Finance;Scaling+Petabyte-Level+Data+Ecosystems;Architecting+Zero-Trust+Data+Pipelines" alt="Typing SVG" />
 </div>
+
 ## Enterprise Architecture & Impact
 *   **AI-Based Risk Automation**: Engineered Hugging Face NLP models and XGBoost/PyTorch behavioral models for Suspicious Transaction Reports (STR), prioritizing mathematical explainability and significantly reducing false positives.
 *   **Petabyte-Scale Infrastructure**: Orchestrated the enterprise deployment of Cloudera Data Platform (CDP 7.x) across a 12-node, 105TB production cluster, maintaining 99.9% architectural uptime via distributed Linux workload balancing.
