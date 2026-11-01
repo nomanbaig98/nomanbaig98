@@ -1,5 +1,5 @@
 # Muhammad Noman Baig 
-**AI & Data Engineer @ Bank Alfalah Ltd. | Trustworthy AI in Finance**
+**AI & Data Engineer @ Bank Alfalah Ltd. | Trustworthy AI Research & Enterprise Infrastructure**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nomanbaig98)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nomanbaig1998@gmail.com)
@@ -8,28 +8,30 @@
 <a href="https://kaggle.com/nomanbaig98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nomanbaig98" height="30" width="40" /></a>
 </p>
 
-Building robust, scalable, and secure data ecosystems is the foundational mandate of modern enterprise finance.<br>
-Processing millions of financial transactions at scale is a solved engineering problem; ensuring the absolute integrity of those algorithmic decisions is not. <br>
-My engineering trajectory is dedicated to advancing Trustworthy AI -architecting the core science that dictates explainable, equitable, and secure financial technology.
+building robust, scalable, and secure data ecosystems is the foundational mandate of modern enterprise technology. <br>
+processing massive transactional workloads at scale is a solved engineering problem; ensuring the absolute mathematical explainability, fairness, and safety of those algorithmic decisions is not. <br>
+my professional trajectory is entirely dedicated to advancing this frontier through foundational research in trustworthy ai, architecting the core science that will dictate the next generation of explainable, equitable, mathematically fair, and adversarial-secure intelligent systems.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineer;Advancing+Trustworthy+AI+in+Finance;Scaling+Petabyte-Level+Data+Ecosystems;Architecting+Zero-Trust+Data+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineer;Trustworthy+AI+Researcher;AI+Safety+%26+Governance;Enterprise+Infrastructure" alt="Typing SVG" />
 </div>
 
-## Enterprise Architecture & Impact
-*   **AI-Based Risk Automation**: Engineered Hugging Face NLP models and XGBoost/PyTorch behavioral models for Suspicious Transaction Reports (STR), prioritizing mathematical explainability and significantly reducing false positives.
+## Research & Enterprise Architecture
+*   **Foundational AI Research (Preprint)**: Authored the Responsible Generative AI Deployment (R-GenAI-D) Framework to secure the generative AI lifecycle[cite: 4]. Formalized bias mitigation as a strict distributional alignment problem utilizing Linear Temporal Logic (LTL), Gaussian Mixture Models (GMM), and Kullback-Leibler (KL) divergence[cite: 4]. 
 *   **Petabyte-Scale Infrastructure**: Orchestrated the enterprise deployment of Cloudera Data Platform (CDP 7.x) across a 12-node, 105TB production cluster, maintaining 99.9% architectural uptime via distributed Linux workload balancing.
-*   **Data Governance & Zero Trust**: Architected strict Apache Ranger security policies for Hive and HBase environments, enforcing enterprise-wide RBAC and achieving zero unauthorized exposures across 105TB of distributed storage.
-*   **Compliance & Scale**: Designed scalable PySpark and REST API ingestion pipelines increasing data load efficiency by 40%, while engineering RPA checkpoints to enforce 2025 TBML regulations.
+*   **AI Safety & Governance**: Engineered explainable NLP models and XGBoost/PyTorch behavioral models for enterprise risk, prioritizing mathematical transparency and architectural resilience over black-box predictions.
+*   **Zero-Trust Data Ecosystems**: Architected strict Apache Ranger security policies for Hive and HBase environments, enforcing enterprise-wide RBAC and achieving zero unauthorized exposures across 105TB of distributed storage.
 
 ## Technical Matrix
 **Big Data Ecosystem:** `Apache Spark` | `Kafka` | `Hadoop` | `Hive` | `HBase` | `Impala` | `HDFS` | `YARN` | `CDP 7.x`
 
-**AI & Machine Learning:** `PyTorch` | `Hugging Face` | `XGBoost` | `MLflow` | `NLP` | `RPA`
+**AI Safety & Machine Learning:** `PyTorch` | `Hugging Face` | `LangChain` | `LlamaIndex` | `RAG` | `XGBoost` | `MLflow` 
+
+**Mathematical Modeling:** `LTL` | `GMM` | `KL Divergence` | `Distributional Alignment`
 
 **Languages & Frameworks:** `Python` | `Scala` | `PySpark` | `SQL` | `Spark SQL` | `Bash` | `FastAPI`
 
-**Infrastructure & Datastores:** `Linux (RHEL)` | `Apache Ranger` | `PostgreSQL (pgvector)` | `MS SQL Server` | `Oracle DB` | `MySQL`
+**Infrastructure & Datastores:** `Linux (RHEL)` | `Apache Ranger` | `PostgreSQL (pgvector)` | `MS SQL Server` | `Oracle DB`
 
 
 ## Engineering Metrics
