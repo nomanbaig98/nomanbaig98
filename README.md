@@ -17,7 +17,7 @@ my professional trajectory is entirely dedicated to advancing this frontier thro
 </div>
 
 ## Research & Enterprise Architecture
-*   **Foundational AI Research (Preprint)**: Authored the Responsible Generative AI Deployment (R-GenAI-D) Framework to secure the generative AI lifecycle[cite: 4]. Formalized bias mitigation as a strict distributional alignment problem utilizing Linear Temporal Logic (LTL), Gaussian Mixture Models (GMM), and Kullback-Leibler (KL) divergence[cite: 4]. 
+*   **Foundational AI Research (Preprint)**: Authored the Responsible Generative AI Deployment (R-GenAI-D) Framework to secure the generative AI lifecycle. Formalized bias mitigation as a strict distributional alignment problem utilizing Linear Temporal Logic (LTL), Gaussian Mixture Models (GMM), and Kullback-Leibler (KL) divergence. 
 *   **Petabyte-Scale Infrastructure**: Orchestrated the enterprise deployment of Cloudera Data Platform (CDP 7.x) across a 12-node, 105TB production cluster, maintaining 99.9% architectural uptime via distributed Linux workload balancing.
 *   **AI Safety & Governance**: Engineered explainable NLP models and XGBoost/PyTorch behavioral models for enterprise risk, prioritizing mathematical transparency and architectural resilience over black-box predictions.
 *   **Zero-Trust Data Ecosystems**: Architected strict Apache Ranger security policies for Hive and HBase environments, enforcing enterprise-wide RBAC and achieving zero unauthorized exposures across 105TB of distributed storage.
